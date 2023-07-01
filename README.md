@@ -1,7 +1,7 @@
 # Maxwell-Cat-in-minecraft
-Хотели получить Кота Максвелла в Minecraft? Теперь можете с данным РП!
+## A small resource pack for adding Maxwell's cat
 
+Now the resource pack is running at 1.19.
+Requires CITResewn or Optifine
 
-Чтобы получить кота, переменуйте тотем в Maxwell или Maxwell-Cat или во все SpinningCat
-
-![Maxwell-Cat-Table](https://user-images.githubusercontent.com/95398007/211549759-ef5ea2e4-2e32-48e7-ba0c-76031c9b1c30.png)
+You can get it by renaming the totem of immortality to Maxwell or SpinningCat
